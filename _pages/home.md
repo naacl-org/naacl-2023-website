@@ -14,6 +14,7 @@ secondary_excerpt: "June 16--21, 2024"
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 .notice--warning del { color: #888; }
 </style>
+| Jun 19, 2024 | [Best Paper Awards](https://docs.google.com/presentation/d/1TVDooAZqkNObz5ysVhDFtqnnVHR-u8wqYvgix-gzPMs/edit?usp=sharing)
 | Jun 10, 2024 | [Blog post: Important Information for NAACL 24 Conference Attendees: In-Person & Virtual](/blog/info-attendees/)
 | Jun 04, 2024 | [Blog post: Mexico City Essentials](/blog/mexico-city-essentials/)
 | May 30, 2024 | [Additional hotel rooms are available](/participants/venue/)
